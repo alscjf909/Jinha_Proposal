@@ -50,7 +50,21 @@
       <option name="project" value="LOCAL" />
       <updated>1595419969593</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="dd">
+      <created>1595915528347</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1595915528347</updated>
+    </task>
+    <task id="LOCAL-00004" summary="dd">
+      <created>1595915551010</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1595915551010</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -58,17 +72,20 @@
     <option name="LAST_COMMIT_MESSAGE" value="dd" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="768" y="0" key="CommitChangelistDialog2" timestamp="1595419968730">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="963" y="-1080" key="CommitChangelistDialog2" timestamp="1595915550263">
+      <screen x="3" y="-1080" width="1920" height="1080" />
     </state>
     <state x="768" y="0" key="CommitChangelistDialog2/0.0.1536.864/3.-1080.1920.1080@0.0.1536.864" timestamp="1595419968730" />
-    <state x="551" y="211" key="FileChooserDialogImpl" timestamp="1595420255627">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="963" y="-1080" key="CommitChangelistDialog2/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595915550263" />
+    <state x="692" y="-816" key="FileChooserDialogImpl" timestamp="1595916026319">
+      <screen x="3" y="-1080" width="1920" height="1080" />
     </state>
     <state x="551" y="211" key="FileChooserDialogImpl/0.0.1536.864/3.-1080.1920.1080@0.0.1536.864" timestamp="1595420255627" />
-    <state x="353" y="217" key="Vcs.Push.Dialog.v2" timestamp="1595419974399">
-      <screen x="0" y="0" width="1536" height="864" />
+    <state x="692" y="-816" key="FileChooserDialogImpl/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595916026319" />
+    <state x="444" y="-809" key="Vcs.Push.Dialog.v2" timestamp="1595915555766">
+      <screen x="3" y="-1080" width="1920" height="1080" />
     </state>
     <state x="353" y="217" key="Vcs.Push.Dialog.v2/0.0.1536.864/3.-1080.1920.1080@0.0.1536.864" timestamp="1595419974399" />
+    <state x="444" y="-809" key="Vcs.Push.Dialog.v2/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595915555766" />
   </component>
 </project>
