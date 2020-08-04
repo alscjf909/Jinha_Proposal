@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="fab520eb-c6bf-477f-938e-b64f7a301444" name="Default Changelist" comment="" />
+    <list default="true" id="fab520eb-c6bf-477f-938e-b64f7a301444" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,13 +20,15 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Makers" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\User\PycharmProjects\Jinha_Proposal" />
     </key>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -67,6 +71,9 @@
     <option name="localTasksCounter" value="5" />
     <servers />
   </component>
+  <component name="TerminalProjectNonSharedOptionsProvider">
+    <option name="shellPath" value="&quot;C:\Program Files\Git\bin\bash.exe&quot; --login" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="dd" />
     <option name="LAST_COMMIT_MESSAGE" value="dd" />
@@ -77,11 +84,16 @@
     </state>
     <state x="768" y="0" key="CommitChangelistDialog2/0.0.1536.864/3.-1080.1920.1080@0.0.1536.864" timestamp="1595419968730" />
     <state x="963" y="-1080" key="CommitChangelistDialog2/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595915550263" />
-    <state x="692" y="-816" key="FileChooserDialogImpl" timestamp="1595916026319">
-      <screen x="3" y="-1080" width="1920" height="1080" />
+    <state x="2609" y="264" key="FileChooserDialogImpl" timestamp="1596440148245">
+      <screen x="1920" y="0" width="1920" height="1080" />
     </state>
+    <state x="2609" y="264" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596440148245" />
     <state x="551" y="211" key="FileChooserDialogImpl/0.0.1536.864/3.-1080.1920.1080@0.0.1536.864" timestamp="1595420255627" />
     <state x="692" y="-816" key="FileChooserDialogImpl/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595916026319" />
+    <state x="2381" y="198" key="SettingsEditor" timestamp="1596439903916">
+      <screen x="1920" y="0" width="1920" height="1080" />
+    </state>
+    <state x="2381" y="198" key="SettingsEditor/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596439903916" />
     <state x="444" y="-809" key="Vcs.Push.Dialog.v2" timestamp="1595915555766">
       <screen x="3" y="-1080" width="1920" height="1080" />
     </state>
