@@ -8,4 +8,5 @@
 7.[해달 온라인 투표 시스템 기획서](https://github.com/haedal-with-knu/Proposal/blob/master/%ED%95%B4%EB%8B%AC%20%EC%98%A8%EB%9D%BC%EC%9D%B8%20%ED%88%AC%ED%91%9C%20%EC%8B%9C%EC%8A%A4%ED%85%9C%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf)  
 8.[해달 캘린더앱 기획서](https://github.com/haedal-with-knu/Proposal/blob/master/%ED%95%B4%EB%8B%AC%20%EC%BA%98%EB%A6%B0%EB%8D%94%EC%95%B1%20%EA%B8%B0%ED%9A%8D%EC%84%9C.pdf)  
 9.[해달 프로그래밍 교육과정](https://github.com/haedal-with-knu/Proposal/blob/master/%ED%95%B4%EB%8B%AC%20%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%EA%B5%90%EC%9C%A1%EA%B3%BC%EC%A0%95.pdf)
+10.[제 2회 해달프로그래밍 현장실습 인턴 회식 제안서](https://github.com/haedal-with-knu/Proposal/blob/master/%EC%A0%9C%202%ED%9A%8C%20%ED%95%B4%EB%8B%AC%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D%20%ED%98%84%EC%9E%A5%EC%8B%A4%EC%8A%B5%20%EC%9D%B8%ED%84%B4%20%ED%9A%8C%EC%8B%9D%20%EC%A0%9C%EC%95%88%EC%84%9C.pdf)
   
