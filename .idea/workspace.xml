@@ -3,7 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="fab520eb-c6bf-477f-938e-b64f7a301444" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,7 +24,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Arduino_basic" />
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
@@ -90,10 +89,10 @@
     </state>
     <state x="768" y="0" key="CommitChangelistDialog2/0.0.1536.864/3.-1080.1920.1080@0.0.1536.864" timestamp="1595419968730" />
     <state x="963" y="-1080" key="CommitChangelistDialog2/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595915550263" />
-    <state x="2609" y="264" key="FileChooserDialogImpl" timestamp="1596440148245">
+    <state x="2609" y="264" key="FileChooserDialogImpl" timestamp="1596593679194">
       <screen x="1920" y="0" width="1920" height="1080" />
     </state>
-    <state x="2609" y="264" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596440148245" />
+    <state x="2609" y="264" key="FileChooserDialogImpl/0.0.1536.864/1920.0.1920.1080@1920.0.1920.1080" timestamp="1596593679194" />
     <state x="551" y="211" key="FileChooserDialogImpl/0.0.1536.864/3.-1080.1920.1080@0.0.1536.864" timestamp="1595420255627" />
     <state x="692" y="-816" key="FileChooserDialogImpl/0.0.1536.864/3.-1080.1920.1080@3.-1080.1920.1080" timestamp="1595916026319" />
     <state x="2381" y="198" key="SettingsEditor" timestamp="1596439903916">
